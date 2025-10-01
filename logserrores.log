@@ -1,0 +1,8 @@
+[01-Oct-2025 16:38:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 7
+[01-Oct-2025 16:38:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 7
+[01-Oct-2025 16:38:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ":", expecting ";" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 7
+[01-Oct-2025 16:38:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ":", expecting ";" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 7
+[01-Oct-2025 16:38:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ":", expecting ";" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 7
+[01-Oct-2025 16:38:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ":", expecting ";" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 7
+[01-Oct-2025 16:59:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "class", expecting ";" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 9
+[01-Oct-2025 16:59:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "class", expecting ";" in C:\xampp\htdocs\ecommerce\Controllers\TemplateController.php on line 9
